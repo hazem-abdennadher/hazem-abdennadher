@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hazem-abdennadher&label=Profile%20views&color=000000&style=flat" alt="hazem-abdennadher" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://h4dottn.me/](https://h4dottn.me/)
+- 👨‍💻 All of my projects are available [here](https://portfolio-hazem-abdennadher.vercel.app/)
 
-- 💬 Ask me about **React, NextJs**
+- 💬 Ask me about **React, NextJs, NestJs**
 
 - 📫 How to reach me **Hazem0Abdennadher@gmail.com**
 
